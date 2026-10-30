@@ -1,0 +1,185 @@
+{
+  "companyName": "Barclayss",
+  "companySlug": "barclayss",
+  "slides": [
+    {
+      "id": "slide-1",
+      "number": 1,
+      "imageUrl": "/uploads/barclayss/slide-01.png",
+      "links": [
+        {
+          "id": "rId6",
+          "label": "Embedded Link 1",
+          "url": "https://kewordal.com/disclaimer",
+          "top": "20%",
+          "left": "10%",
+          "width": "80%",
+          "height": "12%"
+        }
+      ]
+    },
+    {
+      "id": "slide-2",
+      "number": 2,
+      "imageUrl": "/uploads/barclayss/slide-02.png",
+      "links": []
+    },
+    {
+      "id": "slide-3",
+      "number": 3,
+      "imageUrl": "/uploads/barclayss/slide-03.png",
+      "links": []
+    },
+    {
+      "id": "slide-4",
+      "number": 4,
+      "imageUrl": "/uploads/barclayss/slide-04.png",
+      "links": []
+    },
+    {
+      "id": "slide-5",
+      "number": 5,
+      "imageUrl": "/uploads/barclayss/slide-05.png",
+      "links": []
+    },
+    {
+      "id": "slide-6",
+      "number": 6,
+      "imageUrl": "/uploads/barclayss/slide-06.png",
+      "links": []
+    },
+    {
+      "id": "slide-7",
+      "number": 7,
+      "imageUrl": "/uploads/barclayss/slide-07.png",
+      "links": [
+        {
+          "id": "rId7",
+          "label": "Embedded Link 1",
+          "url": "https://kewordal.com",
+          "top": "20%",
+          "left": "10%",
+          "width": "80%",
+          "height": "12%"
+        }
+      ]
+    },
+    {
+      "id": "slide-8",
+      "number": 8,
+      "imageUrl": "/uploads/barclayss/slide-08.png",
+      "links": [
+        {
+          "id": "rId8",
+          "label": "Embedded Link 1",
+          "url": "https://kewordal.com",
+          "top": "20%",
+          "left": "10%",
+          "width": "80%",
+          "height": "12%"
+        }
+      ]
+    },
+    {
+      "id": "slide-9",
+      "number": 9,
+      "imageUrl": "/uploads/barclayss/slide-09.png",
+      "links": []
+    },
+    {
+      "id": "slide-10",
+      "number": 10,
+      "imageUrl": "/uploads/barclayss/slide-10.png",
+      "links": []
+    },
+    {
+      "id": "slide-11",
+      "number": 11,
+      "imageUrl": "/uploads/barclayss/slide-11.png",
+      "links": [
+        {
+          "id": "rId12",
+          "label": "Embedded Link 1",
+          "url": "https://kewordal.com",
+          "top": "20%",
+          "left": "10%",
+          "width": "80%",
+          "height": "12%"
+        }
+      ]
+    },
+    {
+      "id": "slide-12",
+      "number": 12,
+      "imageUrl": "/uploads/barclayss/slide-12.png",
+      "links": []
+    },
+    {
+      "id": "slide-13",
+      "number": 13,
+      "imageUrl": "/uploads/barclayss/slide-13.png",
+      "links": [
+        {
+          "id": "rId5",
+          "label": "Embedded Link 1",
+          "url": "https://kewordal.com",
+          "top": "20%",
+          "left": "10%",
+          "width": "80%",
+          "height": "12%"
+        }
+      ]
+    },
+    {
+      "id": "slide-14",
+      "number": 14,
+      "imageUrl": "/uploads/barclayss/slide-14.png",
+      "links": [
+        {
+          "id": "rId4",
+          "label": "Embedded Link 1",
+          "url": "https://kewordal.com",
+          "top": "20%",
+          "left": "10%",
+          "width": "80%",
+          "height": "12%"
+        }
+      ]
+    },
+    {
+      "id": "slide-15",
+      "number": 15,
+      "imageUrl": "/uploads/barclayss/slide-15.png",
+      "links": []
+    },
+    {
+      "id": "slide-16",
+      "number": 16,
+      "imageUrl": "/uploads/barclayss/slide-16.png",
+      "links": []
+    },
+    {
+      "id": "slide-17",
+      "number": 17,
+      "imageUrl": "/uploads/barclayss/slide-17.png",
+      "links": []
+    },
+    {
+      "id": "slide-18",
+      "number": 18,
+      "imageUrl": "/uploads/barclayss/slide-18.png",
+      "links": [
+        {
+          "id": "rId5",
+          "label": "Embedded Link 1",
+          "url": "https://kewordal.com",
+          "top": "20%",
+          "left": "10%",
+          "width": "80%",
+          "height": "12%"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-10-30T12:48:14.654Z"
+}

@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  --background: #f6f6f2;
+  --foreground: #111827;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+button, input { font: inherit; }
+button:focus-visible, input:focus-visible, [role="button"]:focus-visible {
+  outline: 3px solid rgba(99, 102, 241, .34);
+  outline-offset: 3px;
+}
+
+.react-pdf__Document { display: flex; flex-direction: column; gap: 0; }
+.react-pdf__Page { position: relative; display: block; margin: 0 auto; overflow: hidden; background: #fff; }
+.react-pdf__Page canvas { display: block !important; width: 100% !important; height: auto !important; }
+.react-pdf__Page__annotations { position: absolute; inset: 0; overflow: hidden; line-height: 1; pointer-events: none; }
+.react-pdf__Page__annotations section { position: absolute; pointer-events: auto; }
+.react-pdf__Page__annotations a { display: block; width: 100%; height: 100%; cursor: pointer; }
+.react-pdf__Page__annotations a:hover { background: rgba(99, 102, 241, .08); outline: 1px solid rgba(79, 70, 229, .28); }
+.react-pdf__Page__annotations .linkAnnotation { pointer-events: auto; }
+.pptx-link-overlay {
+  position: absolute;
+  z-index: 10;
+  display: block;
+  border-radius: 2px;
+  background: transparent;
+  cursor: pointer;
+}
+.pptx-link-overlay:hover { background: rgba(99, 102, 241, .08); outline: 1px solid rgba(79, 70, 229, .28); }
+.pptx-link-overlay:focus-visible { outline: 3px solid rgba(79, 70, 229, .72); outline-offset: -2px; }
+.deck-slide { scroll-margin-top: 116px; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+}

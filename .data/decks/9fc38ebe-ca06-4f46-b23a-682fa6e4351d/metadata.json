@@ -1,0 +1,54 @@
+{
+  "id": "9fc38ebe-ca06-4f46-b23a-682fa6e4351d",
+  "companyName": "Barclays",
+  "originalFileName": "Kewordal_Companies_Deck_Barclays - Send.pptx",
+  "sourceFormat": "pptx",
+  "createdAt": "2026-10-30T13:22:15.835Z",
+  "sizeBytes": 4793483,
+  "links": [
+    {
+      "slideNumber": 7,
+      "left": 9.1502,
+      "top": 66.4,
+      "width": 22.5006,
+      "height": 5.3333,
+      "href": "https://kewordal.com",
+      "kind": "external",
+      "newTab": true,
+      "label": "TextBox 33"
+    },
+    {
+      "slideNumber": 7,
+      "left": 6.7502,
+      "top": 67.2,
+      "width": 2.1001,
+      "height": 3.7333,
+      "href": "https://kewordal.com",
+      "kind": "external",
+      "newTab": true,
+      "label": "Picture 34"
+    },
+    {
+      "slideNumber": 8,
+      "left": 78.227,
+      "top": 75.2,
+      "width": 7.8002,
+      "height": 13.8667,
+      "href": "https://kewordal.com",
+      "kind": "external",
+      "newTab": true,
+      "label": "Oval 64"
+    },
+    {
+      "slideNumber": 8,
+      "left": 78.452,
+      "top": 75.6,
+      "width": 7.3502,
+      "height": 13.0667,
+      "href": "https://kewordal.com",
+      "kind": "external",
+      "newTab": true,
+      "label": "Picture 65"
+    }
+  ]
+}
